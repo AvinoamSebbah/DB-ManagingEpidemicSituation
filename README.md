@@ -1,15 +1,12 @@
-# 150225-5779-Databases
+# 150225-5780-42 - מדינה במצב מגיפה
 
-Here we have all the SQL scripts to build the initial database for the mini-project:
-Run the sql files in the following order:
+Here we have all the SQL scripts of our project:
 
-1) The schema definition
-**DB1.sql**
-
-2) The data for all the tables are inserted
-* area.sql
-* city.sql
-* agent.sql
-* client.sql
-* schedule.sql
+* Geography.sql
+* Inventory.sql
+* Logistics.sql
+* Medicine.sql
+* Population.sql
+* Science.sql
+* Volunteer.sql
  
