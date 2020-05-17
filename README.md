@@ -7,6 +7,6 @@ Here we have all the SQL scripts of our project:
 * Logistics.sql
 * Medicine.sql
 * Population.sql
-* Science.sql
-* Volunteer.sql
+* Science.sql             -> אבינועם ואליעזר
+* Volunteer.sql           -> יוסף וראובן
  
