@@ -3,7 +3,7 @@
 Here we have all the SQL scripts of our project:
 
 * Geography.sql
-* Inventory.sql
+* Inventory.sql           -> אשר ורפאל
 * Logistics.sql
 * Medicine.sql            -> יעקב ונריה
 * Population.sql
