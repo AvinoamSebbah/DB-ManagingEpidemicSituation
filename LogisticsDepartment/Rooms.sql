@@ -1,0 +1,10 @@
+CREATE TABLE HospitalRooms
+(
+  ID NUMERIC(6) NOT NULL,
+  Name VARCHAR(50) NOT NULL,
+  HospitalID NUMERIC(6) NOT NULL,
+  Type VARCHAR(20) NOT NULL,
+  Capacity NUMERIC(6) NOT NULL,
+  Occupation NUMERIC(6) NOT NULL,
+  PRIMARY KEY (ID)
+);
