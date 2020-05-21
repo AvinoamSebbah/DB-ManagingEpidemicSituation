@@ -11,6 +11,7 @@ Here we have all the SQL scripts of our project:
 + * Worker.sql              -> יוסף וראובן
 - * Volunteer.sql           -> שמואל ואביה
 
+Color definition :
 - Not completed
 + Completed
 ```
