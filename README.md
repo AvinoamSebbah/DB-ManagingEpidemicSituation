@@ -1,8 +1,8 @@
 # 150225-5780-42 - מדינה במצב מגיפה
 
 Here we have all the SQL scripts of our project:
-
-* Geography.sql           ->```diff - חיים ואבירן```
+```diff
+* Geography.sql           ->``` - חיים ואבירן```
 * Inventory.sql           ->``` + אשר ורפאל```
 * Logistics.sql           ->``` + יונתן ואלישע```
 * Medicine.sql            ->``` + יעקב ונריה ```
