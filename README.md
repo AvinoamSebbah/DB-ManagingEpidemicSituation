@@ -2,7 +2,7 @@
 
 Here we have all the SQL scripts of our project:
 
-* Geography.sql           ->``` - חיים ואבירן```
+* Geography.sql           ->```diff - חיים ואבירן```
 * Inventory.sql           ->``` + אשר ורפאל```
 * Logistics.sql           ->``` + יונתן ואלישע```
 * Medicine.sql            ->``` + יעקב ונריה ```
