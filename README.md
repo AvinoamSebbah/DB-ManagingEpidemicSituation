@@ -2,11 +2,11 @@
 
 Here we have all the SQL scripts of our project:
 
-* Geography.sql
+* Geography.sql           ->
 * Inventory.sql           -> אשר ורפאל
 * Logistics.sql           -> יונתן ואלישע
 * Medicine.sql            -> יעקב ונריה
-* Population.sql
+* Population.sql          ->
 * Science.sql             -> אבינועם ואליעזר
-* Volunteer.sql           -> יוסף וראובן
- 
+* Worker.sql              -> יוסף וראובן
+* Volunteer.sql           ->
