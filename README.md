@@ -11,7 +11,6 @@ Here we have all the SQL scripts of our project:
 * Worker.sql              ->``` + יוסף וראובן```
 * Volunteer.sql           ->``` - שמואל ואביה```
 
-```diff
 - text in red
 + text in green
 ! text in orange
