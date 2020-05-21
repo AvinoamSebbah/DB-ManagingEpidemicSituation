@@ -4,7 +4,7 @@ Here we have all the SQL scripts of our project:
 
 * Geography.sql
 * Inventory.sql           -> אשר ורפאל
-* Logistics.sql
+* Logistics.sql           -> יונתן ואלישע
 * Medicine.sql            -> יעקב ונריה
 * Population.sql
 * Science.sql             -> אבינועם ואליעזר
