@@ -9,7 +9,7 @@ Here we have all the SQL scripts of our project:
 - * Population.sql          -> איתן ואור
 + * Science.sql             -> אבינועם ואליעזר
 + * Worker.sql              -> יוסף וראובן
-- * Volunteer.sql           -> שמואל ואביה
++ * Volunteer.sql           -> שמואל ואביה
 
 Color definition :
 - Not completed
