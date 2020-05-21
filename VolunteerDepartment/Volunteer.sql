@@ -1,1 +1,50 @@
+CREATE TABLE VolunteerNetwork
+(
+  City INT NOT NULL,
+  Company INT NOT NULL,
+  ID INT NOT NULL,
+  Specialization INT NOT NULL,
+  PRIMARY KEY (ID),
+  UNIQUE (City)
+);
 
+CREATE TABLE Volunteer
+(
+  Name INT NOT NULL,
+  ID INT NOT NULL,
+  City INT NOT NULL,
+  Specialization INT NOT NULL,
+  PhoneNumber INT NOT NULL,
+  PRIMARY KEY (ID),
+  UNIQUE (PhoneNumber)
+);
+
+CREATE TABLE Coordinator
+(
+  Name INT NOT NULL,
+  ID INT NOT NULL,
+  PhoneNum INT NOT NULL,
+  Adresss INT NOT NULL,
+  ID INT NOT NULL,
+  PRIMARY KEY (ID),
+  FOREIGN KEY (ID) REFERENCES VolunteerNetwork(ID),
+  UNIQUE (PhoneNum)
+);
+
+CREATE TABLE Volunteer_in
+(
+  ID INT NOT NULL,
+  ID INT NOT NULL,
+  PRIMARY KEY (ID, ID),
+  FOREIGN KEY (ID) REFERENCES VolunteerNetwork(ID),
+  FOREIGN KEY (ID) REFERENCES Volunteer(ID)
+);
+
+CREATE TABLE Related_to
+(
+  ID INT NOT NULL,
+  ID INT NOT NULL,
+  PRIMARY KEY (ID, ID),
+  FOREIGN KEY (ID) REFERENCES Volunteer(ID),
+  FOREIGN KEY (ID) REFERENCES Coordinator(ID)
+);
